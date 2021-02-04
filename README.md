@@ -21,10 +21,10 @@ After 10 years of its foundation in 2008, by the end of 2018 Airbnb had already 
 
 The Startup also has a culture of handling **free data** in the internet. Through the website [Inside Airbnb](http://insideairbnb.com/get-the-data.html) you can download data from **some of the biggest cities in the world**, which allows you to build countless projects and *Data Science* solutions.
 
-<center><img alt="Analyzing Airbnb" width="100%" src="https://i.ibb.co/3rSqYVt/http-assets-stickpng-com-images-5848152fcef1014c0b5e4967-png-1.png"></center>
-
+Data science is the best way to take insights from pieces that seem useless.
 
 **In this notebook we will analyze the given data about Toronto, and then will see which insights can be taken from it**.
+<br>
 <br>
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-porfirio-purgato-7891401b3/)
